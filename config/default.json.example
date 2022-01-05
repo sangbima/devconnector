@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodbURI",
+  "jwtSecret": "jwtsecret",
+  "jwtExpires": 36000,
+  "githubClientId": "githubclientid",
+  "githubSecret": "githubsecret"
+}
